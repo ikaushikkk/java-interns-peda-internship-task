@@ -1,1 +1,1 @@
-# java-interns-peda-internship-task
+# java-interns-pedia-internship-task
